@@ -1,0 +1,5 @@
+#adding files to ignore in git 
+
+#dependencies
+/node_modules
+/public/js
